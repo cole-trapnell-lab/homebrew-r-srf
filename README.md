@@ -1,3 +1,5 @@
+# Do not use this repo or formula. Instead, you should use [this repo](https://github.com/cole-trapnell-lab/homebrew-trapnell)
+
 # Customizable R formula for Homebrew
 
 This is a custom Homebrew R formula that enables OpenBLAS and OpenMP for accelerated linear algebra. It does not require X11/XQuartz and instead relies on Cairo for graphics support. It includes dependencies listed in [this blog post](https://www.btskinner.io/code/install-r-with-openblas-and-openmp-on-macos-mojave/) by Benjamin T. Skinner.
